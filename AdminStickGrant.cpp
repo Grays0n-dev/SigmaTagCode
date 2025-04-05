@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Function to check if the player is "CATPLAYZZZ" and grant the admin stick
+// Function to check if the player is "CATPLAYZ" and grant the admin stick
 void GrantAdminStick(const std::string& playerName) {
     if (playerName == "CATPLAYZZZ") {
         // Grant admin stick
